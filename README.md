@@ -12,6 +12,7 @@ Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.i
 
 ## Analyseergebnisse
 
+### Metadaten
 Die wichtigste Komponente scheint die Anreicherung der Webseite mit Metadaten zu sein. Wer hier Open Graph Markup verwendet scheint sehr viele Zielplattformen und Message Dienste zu erreichen. Wichtigste Infos die im Head einer Webseite untergebracht werden müssen, sind:
 
 ~~~~
@@ -21,6 +22,13 @@ Die wichtigste Komponente scheint die Anreicherung der Webseite mit Metadaten zu
   <meta property="og:description"        content="Beschreibung des Vorschaubildes" />
   <meta property="og:image"              content="url des Vorschaubildes" />
 ~~~~
+
+### Bild Anforderungen
+
+* Für Facebook kann es gar nicht groß genug sein
+* Twitter scheint nur Bilder bis zu einer Größe von 800x400 zu unterstützen
+* Hochformate scheinen nicht immer unterstützt zu werden (z.B. Twitter)
+
 
 ## Internetquellen
 
