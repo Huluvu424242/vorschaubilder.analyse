@@ -13,9 +13,11 @@ Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.i
 
 ## Verbreitete APIs
 ### GraphQL (Facebook, Instagram, Whatsapp, ...) 
+#### Konzept und Spezifikation
 * Open Graph-Markup: https://developers.facebook.com/docs/sharing/webmasters#markup
+* https://developers.facebook.com/docs/sharing/3d-posts/open-graph-sharing
 
-## GraphQL (Facebook) API & Tools 
+#### API & Tools 
 
 * Facebook Crawler: https://developers.facebook.com/docs/sharing/webmasters/crawler
 * Facebook Debugger: https://developers.facebook.com/tools/debug/ 
