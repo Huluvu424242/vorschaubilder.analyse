@@ -16,6 +16,10 @@ Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.i
 Die wichtigste Komponente scheint die Anreicherung der Webseite mit Metadaten zu sein. Wer hier Open Graph Markup verwendet scheint sehr viele Zielplattformen und Message Dienste zu erreichen. Wichtigste Infos die im Head einer Webseite untergebracht werden müssen, sind:
 
 ~~~~
+  <title>Überschrift des Vorschaubildes</title>
+  <meta name="description" content="Beschreibung des Vorschaubildes">
+  <link rel="canonical" href="kanonische url - üblicherweise der seo link" />
+
   <meta property="og:url"                content="kanonische url - üblicherweise der seo link" />
   <meta property="og:type"               content="article" />
   <meta property="og:title"              content="Überschrift des Vorschaubildes" />
