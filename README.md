@@ -62,10 +62,15 @@ Wird von Sharing Diensten oder auch Teilen Buttons genutzt um Artikelvorschauen 
 ### Instant Artikel API (Facebook, Instagram, ...)
 #### Konzept uns Spezifikation
 Dient Autoren, ihre Artikel schnell auf Facebook & Co. zu veröffentlichen
+
 * https://developers.facebook.com/docs/instant-articles
 * https://developers.facebook.com/docs/instant-articles/api
 
-### Google Snippet
+### Google (Rich) Snippets
+#### Konzepte
+
+* https://www.gruenderszene.de/allgemein/rich-snippets-website-traffic
+
 #### Tools
 
 * Snippet Generator https://seorch.de/html/snippet-optimization-tool.html
