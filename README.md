@@ -66,10 +66,16 @@ Dient Autoren, ihre Artikel schnell auf Facebook & Co. zu veröffentlichen
 * https://developers.facebook.com/docs/instant-articles
 * https://developers.facebook.com/docs/instant-articles/api
 
-### Google (Rich) Snippets
+### Google (Rich) Snippets https://de.ryte.com/wiki/Rich_Snippets
+
 #### Konzepte
 
 * https://www.gruenderszene.de/allgemein/rich-snippets-website-traffic
+
+* Mikrodaten
+* Mikroformate
+* RDFa
+* JSON-LD
 
 #### Tools
 
