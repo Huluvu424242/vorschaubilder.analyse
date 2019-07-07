@@ -3,4 +3,8 @@
 
 ## Report Facebook Sharaing Debugger am 07.07.2019
 
+Index Seite ohne Suche
 ![](screenshot-developers.facebook.com-2019.07.07-14-23-14.png)
+
+Suche nach Koch in Nürnberg
+![](screenshot-developers.facebook.com-2019.07.07-14-47-42.png)
