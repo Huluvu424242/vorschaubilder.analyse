@@ -4,7 +4,7 @@ Projekt um die Erzeugung von Vorschaubildern (Facebook, Google, etc) zu analyise
 Die Techniken der einzelnen Plattformen benutzen folgende Buzzwords:
 
 * Facebook: Open Graph-Markup
-* Google: Google Auszug
+* Google: Google Snippet Vorschau
 * Twitter: Twitter Card
 
 
@@ -21,6 +21,12 @@ Die wichtigste Komponente scheint die Anreicherung der Webseite mit Metadaten zu
   <meta property="og:title"              content="Überschrift des Vorschaubildes" />
   <meta property="og:description"        content="Beschreibung des Vorschaubildes" />
   <meta property="og:image"              content="url des Vorschaubildes" />
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Überschrift des Vorschaubildes">
+  <meta name="twitter:url" content="kanonische ulr - üblicherweise der seo link">
+  <meta name="twitter:description" content="Beschreibung des Vorschaubildes">
+  <meta name="twitter:image" content="url des Vorschaubildes">
 ~~~~
 
 ### Bild Anforderungen
@@ -55,7 +61,10 @@ Dient Autoren, ihre Artikel schnell auf Facebook & Co. zu veröffentlichen
 * https://developers.facebook.com/docs/instant-articles
 * https://developers.facebook.com/docs/instant-articles/api
 
+### Google Snippet
+#### Tools
 
+* Snippet Generator https://seorch.de/html/snippet-optimization-tool.html
 
 ## Technische Erklärungen
  * PPI (Digitalbild) vs. DPI (Drucktechnik):https://fotovideotec.de/ppi_und_dpi/
