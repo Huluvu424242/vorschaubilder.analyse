@@ -7,5 +7,5 @@
 3. 1200x627 soll für Facebook am geeignesten sein, da es direkt nutzbar wäre
 
 == Pixeldichte
-* mindestens 72 dpi
+* mindestens 72 ppi
 
