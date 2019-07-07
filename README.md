@@ -4,7 +4,7 @@ Projekt um die Erzeugung von Vorschaubildern (Facebook, Google, etc) zu analyise
 Die Techniken der einzelnen Plattformen benutzen folgende Buzzwords:
 
 * Facebook: Open Graph-Markup
-* Google: Google Snippet Vorschau
+* Google: Google (Rich) Snippet Vorschau für SERP
 * Twitter: Twitter Card
 
 
