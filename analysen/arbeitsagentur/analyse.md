@@ -8,3 +8,6 @@ Index Seite ohne Suche
 
 Suche nach Koch in Nürnberg
 ![](screenshot-developers.facebook.com-2019.07.07-14-47-42.png)
+
+Analyse im Facebook Object Debugger
+![](screenshot-developers.facebook.com-2019.07.07-15-03-54.png)
