@@ -70,7 +70,7 @@ Dient Autoren, ihre Artikel schnell auf Facebook & Co. zu veröffentlichen
 
 #### Konzepte
 
-* https://www.gruenderszene.de/allgemein/rich-snippets-website-traffic
+https://www.gruenderszene.de/allgemein/rich-snippets-website-traffic
 
 * Mikrodaten
 * Mikroformate
