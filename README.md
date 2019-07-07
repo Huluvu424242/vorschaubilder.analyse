@@ -12,8 +12,8 @@ Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.i
 * ???: http://www.community1x1.de/google-facebook-link-vorschau/
 
 ## Verbreitete APIs
-* GraphQL (Facebook, Instagram, Whatsapp, ...) 
-* 
+### GraphQL (Facebook, Instagram, Whatsapp, ...) 
+* Open Graph-Markup: https://developers.facebook.com/docs/sharing/webmasters#markup
 
 ## GraphQL (Facebook) API & Tools 
 
