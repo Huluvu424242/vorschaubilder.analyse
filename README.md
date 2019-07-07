@@ -79,6 +79,7 @@ https://www.gruenderszene.de/allgemein/rich-snippets-website-traffic
 
 #### Tools
 
+* Snippet Tester: https://search.google.com/structured-data/testing-tool
 * Snippet Generator https://seorch.de/html/snippet-optimization-tool.html
 
 ## Technische Erklärungen
