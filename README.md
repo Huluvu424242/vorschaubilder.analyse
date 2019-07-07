@@ -10,6 +10,17 @@ Die Techniken der einzelnen Plattformen benutzen folgende Buzzwords:
 
 Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.io/vorschaubilder.analyse/
 
+## Analyseergebnisse
+
+Die wichtigste Komponente scheint die Anreicherung der Webseite mit Metadaten zu sein. Wer hier Open Graph Markup verwendet scheint sehr viele Zielplattformen und Message Dienste zu erreichen. Wichtigste Infos die im Head einer Webseite untergebracht werden müssen, sind:
+
+~~~~
+  <meta property="og:url"                content="kanonische url - üblicherweise der seo link" />
+  <meta property="og:type"               content="article" />
+  <meta property="og:title"              content="Überschrift des Vorschaubildes" />
+  <meta property="og:description"        content="Beschreibung des Vorschaubildes" />
+  <meta property="og:image"              content="url des Vorschaubildes" />
+~~~~
 
 ## Internetquellen
 
