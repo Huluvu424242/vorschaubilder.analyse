@@ -14,6 +14,7 @@ Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.i
 ## Verbreitete APIs
 ### GraphQL (Facebook, Instagram, Whatsapp, ...) 
 #### Konzept und Spezifikation
+Wird von Sharing Diensten oder auch Teilen Buttons genutzt um Artikelvorschauen zu erzeugen. 
 * Open Graph-Markup: https://developers.facebook.com/docs/sharing/webmasters#markup
 * https://developers.facebook.com/docs/sharing/3d-posts/open-graph-sharing
 
@@ -25,6 +26,8 @@ Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.i
 
 ### Instant Artikel API (Facebook, Instagram, ...)
 #### Konzept uns Spezifikation
+Dient Autoren, ihre Artikel schnell auf Facebook & Co. zu veröffentlichen
+* https://developers.facebook.com/docs/instant-articles
 * https://developers.facebook.com/docs/instant-articles/api
 
 
