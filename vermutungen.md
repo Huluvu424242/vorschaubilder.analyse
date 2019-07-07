@@ -6,3 +6,6 @@
 2. 800x800 soll ein gutes Vorschaubild abgeben
 3. 1200x627 soll für Facebook am geeignesten sein, da es direkt nutzbar wäre
 
+== Pixeldichte
+* mindestens 72 dpi
+
