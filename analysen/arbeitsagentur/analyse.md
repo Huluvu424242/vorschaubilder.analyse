@@ -11,3 +11,4 @@ Suche nach Koch in Nürnberg
 
 Analyse im Facebook Object Debugger
 ![](screenshot-developers.facebook.com-2019.07.07-15-03-54.png)
+
