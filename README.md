@@ -1,6 +1,12 @@
 # vorschaubilder.analyse
 Projekt um die Erzeugung von Vorschaubildern (Facebook, Google, etc) zu analyiseren
 
+Die Techniken der einzelnen Plattformen benutzen folgende Buzzwords:
+
+* Facebook: Open Graph-Markup
+* Google: Google Auszug
+* Twitter: Twitter Card
+
 
 Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.io/vorschaubilder.analyse/
 
