@@ -23,6 +23,10 @@ Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.i
 * Facebook Debugger: https://developers.facebook.com/tools/debug/ 
 * Facebook Objekt Debugger: https://developers.facebook.com/tools/debug/og/object
 
+### Instant Artikel API (Facebook, Instagram, ...)
+#### Konzept uns Spezifikation
+* https://developers.facebook.com/docs/instant-articles/api
+
 
 
 ## Technische Erklärungen
