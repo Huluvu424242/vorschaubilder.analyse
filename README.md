@@ -3,3 +3,26 @@ Projekt um die Erzeugung von Vorschaubildern (Facebook, Google, etc) zu analyise
 
 
 Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.io/vorschaubilder.analyse/
+
+
+Rechtliche Aspekte:
+
+https://drschwenke.de/vorschaubilder-beim-teilen-von-inhalten-in-social-media-praxistipps-zur-minderung-des-abmahnrisikos/
+
+ 
+
+Techniken für Vorschaubilder:
+
+https://medienkompass.de/facebook-vorschau-link-bild/
+
+http://www.community1x1.de/google-facebook-link-vorschau/
+
+ 
+
+Facebook Debugger
+
+https://developers.facebook.com/tools/debug/
+
+ 
+
+Kommerzielles Tool
