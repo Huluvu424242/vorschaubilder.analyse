@@ -12,13 +12,14 @@ Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.i
 * ???: http://www.community1x1.de/google-facebook-link-vorschau/
 
 ## Verbreitete APIs
-* GraphQL (Facebook) 
+* GraphQL (Facebook, Instagram, Whatsapp, ...) 
 * 
 
 ## GraphQL (Facebook) API & Tools 
 
 * Facebook Crawler: https://developers.facebook.com/docs/sharing/webmasters/crawler
 * Facebook Debugger: https://developers.facebook.com/tools/debug/ 
+* Facebook Objekt Debugger: https://developers.facebook.com/tools/debug/og/object
 
 
 
