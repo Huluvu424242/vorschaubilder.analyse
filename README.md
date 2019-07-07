@@ -15,8 +15,9 @@ Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.i
 * GraphQL (Facebook) 
 * 
 
-## GraphQL (Facebook) API Tools 
+## GraphQL (Facebook) API & Tools 
 
+* Facebook Crawler: https://developers.facebook.com/docs/sharing/webmasters/crawler
 * Facebook Debugger: https://developers.facebook.com/tools/debug/ 
 
 
