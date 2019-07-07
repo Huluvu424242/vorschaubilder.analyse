@@ -23,6 +23,5 @@ Facebook Debugger
 
 https://developers.facebook.com/tools/debug/
 
- 
-
-Kommerzielles Tool
+ == Technische Erklärungen
+ * PPI (Digitalbild) vs. DPI (Drucktechnik):https://fotovideotec.de/ppi_und_dpi/
