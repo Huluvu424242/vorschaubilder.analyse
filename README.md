@@ -9,7 +9,7 @@ Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.i
 
 * Rechtliche Aspekte: https://drschwenke.de/vorschaubilder-beim-teilen-von-inhalten-in-social-media-praxistipps-zur-minderung-des-abmahnrisikos/
 * Techniken für Vorschaubilder: https://medienkompass.de/facebook-vorschau-link-bild/
-* ???: http://www.community1x1.de/google-facebook-link-vorschau/
+* Übergreifende Techniken: http://www.community1x1.de/google-facebook-link-vorschau/
 
 ## Verbreitete APIs
 ### GraphQL (Facebook, Instagram, Whatsapp, ...) 
