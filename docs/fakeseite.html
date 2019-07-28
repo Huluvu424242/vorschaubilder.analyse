@@ -20,6 +20,7 @@
   <script type="text/javascript">
     //<![CDATA[
       function webkitSpeechChange(input) {
+        console.log("eingabe wird verarbeitet..."+input.value);
         location.href = 'http://www.google.de/search?q='+ input.value;
       };
     //]]>
