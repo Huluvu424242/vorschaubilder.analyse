@@ -20,6 +20,9 @@
   <script type="text/javascript" charset="utf-8">
     
       function webkitSpeechChange(input) {
+        if(input == undefined){
+          input = window.document.getElementById("suchtext");
+        }
         console.log("eingabe wird verarbeitet..."+input.value);
         alert(input.value);
         location.href = 'http://www.google.de/search?q='+ input.value;
@@ -38,10 +41,10 @@ Richard_Matthew_Stallman.jpeg: user:Sj [CC BY-SA 3.0 (http://creativecommons.org
   <label for="suchtext">Suchtext:</label> 
   <input id="suchtext" 
          type="text" 
-         x-webkit-speech="x-webkit-speech" 
+         x-webkit-speech="x-webkit-speech"
          speech="speech" 
-         onwebkitspeechchange="javascript:webkitSpeechChange()" 
-         onspeechchange="javascript:webkitSpeechChange()"
+         onwebkitspeechchange="webkitSpeechChange()"
+         onspeechchange="webkitSpeechChange()"
          value="" />
   </form>
   
