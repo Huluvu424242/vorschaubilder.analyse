@@ -17,19 +17,7 @@
   <meta name="twitter:image"              content="https://con.arbeitsagentur.de/prod/jobboerse/jobsuche-ui/img/header-bild.jpg" />
   
    
-  <script type="text/javascript" charset="utf-8">
-    
-      function webkitSpeechChange(input) {
-        if(input == undefined){
-          input = window.document.getElementById("suchtext");
-        }
-        console.log("eingabe wird verarbeitet..."+input.value);
-        alert(input.value);
-        location.href = 'http://www.google.de/search?q='+ input.value;
-      };
-    
-  </script>
-  
+ 
 </head>
 <body>
 
@@ -37,16 +25,6 @@
 Richard_Matthew_Stallman.jpeg: user:Sj [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Richard_Matthew_Stallman_cropped.jpeg"><img width="128" alt="Richard Matthew Stallman cropped" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Richard_Matthew_Stallman_cropped.jpeg"></a>
 
 <a title="Sage Ross [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Aaron_Swartz_at_Boston_Wikipedia_Meetup,_2009-08-18.jpg"><img width="512" alt="Aaron Swartz at Boston Wikipedia Meetup, 2009-08-18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aaron_Swartz_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg/512px-Aaron_Swartz_at_Boston_Wikipedia_Meetup%2C_2009-08-18.jpg"></a>
-  <form>
-  <label for="suchtext">Suchtext:</label> 
-  <input id="suchtext" 
-         type="text" 
-         x-webkit-speech="x-webkit-speech"
-         speech="speech" 
-         onwebkitspeechchange="webkitSpeechChange()"
-         onspeechchange="webkitSpeechChange()"
-         value="" />
-  </form>
   
 </body>
 
