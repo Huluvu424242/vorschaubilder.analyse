@@ -8,7 +8,7 @@ Die Techniken der einzelnen Plattformen benutzen folgende Buzzwords:
 * Twitter: Twitter Card
 
 
-Zur Testseite für Vorschaubilder Verlinkungen: https://funthomas424242.github.io/vorschaubilder.analyse/
+Zur Testseite für Vorschaubilder Verlinkungen: https://huluvu424242.github.io/vorschaubilder.analyse/
 
 ## Analyseergebnisse
 
